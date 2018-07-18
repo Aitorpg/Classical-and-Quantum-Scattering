@@ -1,2 +1,16 @@
 # Classical-and-Quantum-Scattering
-An interactive visualization of the classical and quantum scattering
+The nature of this project is totally pedagogic. As I was nishing the
+career I thought about contributing my grain of sand in physics by helping
+those students who are starting now. Most of the concepts learned in physics
+are not very intuitive and in most of the cases some examples are needed
+to understand them. From my experience, visualizing them was the most
+dicult part. So, in order to avoid these problems I nd it useful teaching
+them in a interactive way, in a way in which the students could participate
+in their learning process.
+In order to achieve that goal it is going to be ilustrated how the classical and
+quantum scattering can be explained in a interactive way. Due to the social
+nature of this project it is useful to program it in a open source language,
+as it is Python.
+
+
+
