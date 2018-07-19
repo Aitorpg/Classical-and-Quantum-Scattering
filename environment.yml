@@ -1,0 +1,10 @@
+dependencies:
+  - python=3.4
+  - matplotlib.pyplot
+  - numpy
+  - scipy.integrate
+  - scipy.specials
+  - vpython
+  - ipywidgets
+  - random
+  
