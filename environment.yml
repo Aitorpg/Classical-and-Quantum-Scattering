@@ -3,7 +3,6 @@ dependencies:
   - matplotlib
   - numpy
   - scipy
-  - vpython
   - ipywidgets
   - random
-  
+  - vpython
