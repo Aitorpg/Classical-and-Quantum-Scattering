@@ -2,8 +2,7 @@ dependencies:
   - python=3.4
   - matplotlib
   - numpy
-  - scipy.integrate
-  - scipy.specials
+  - scipy
   - vpython
   - ipywidgets
   - random
