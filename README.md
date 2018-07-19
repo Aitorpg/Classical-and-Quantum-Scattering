@@ -14,5 +14,5 @@ quantum scattering can be explained in a interactive way. Due to the social
 nature of this project it is useful to program it in a open source language,
 as it is Python.
 
-
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Aitorpg/Visualization-of-Classical-and-Quantum-Scattering/master)
 
