@@ -1,4 +1,4 @@
-# Classical-and-Quantum-Scattering
+# Visualization of Classical and Quantum-Scattering
 
 The nature of this project is totally pedagogic. As I was finishing the
 career I thought about contributing my grain of sand in physics by helping
@@ -14,5 +14,5 @@ quantum scattering can be explained in a interactive way. Due to the social
 nature of this project it is useful to program it in a open source language,
 as it is Python.
 
-Firtstly, click on [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Aitorpg/Visualization-of-Classical-and-Quantum-Scattering/master) to launch the project. Then, it will appear a jupyter window. Entering in  
+Firtstly, click on [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Aitorpg/Visualization-of-Classical-and-Quantum-Scattering/master) to launch the project. Then, it will appear a jupyter's window. Entering in "Classical and Quantum Scattering.ipynb" you will find the project itself. To compile each cell you just have to press shift+enter. Enjoy it!
 
